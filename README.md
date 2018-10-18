@@ -1,8 +1,6 @@
 Test Toro Kernel in 5 minutes
 =============================
 
-This is an example that indends that you find your way to test Toro in less than 5 minutes.
-
 In this example, you will execute Toro Kernel with a basic web server application. This web server application will read an index.html page from a second image. And you will be able to see the webpage using your webbrowser.
 
 Download Toro Images
